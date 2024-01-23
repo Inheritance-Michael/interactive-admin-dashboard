@@ -2,3 +2,6 @@ function drawChart(id, data) { const canvas = document.getElementById(id); if (c
 
 // Canvas chart optimization 11
 function renderMetric_11() { return 11; }
+
+// Canvas chart optimization 16
+function renderMetric_16() { return 16; }
