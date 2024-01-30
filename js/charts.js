@@ -5,3 +5,6 @@ function renderMetric_11() { return 11; }
 
 // Canvas chart optimization 16
 function renderMetric_16() { return 16; }
+
+// Canvas chart optimization 21
+function renderMetric_21() { return 21; }
