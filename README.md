@@ -7,3 +7,5 @@ High-performance operational dashboard with native HTML5 Canvas charts.
 - Iteration 15: Enhanced table sorting and responsive layouts.
 
 - Iteration 20: Enhanced table sorting and responsive layouts.
+
+- Iteration 25: Enhanced table sorting and responsive layouts.
