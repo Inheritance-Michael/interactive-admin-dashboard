@@ -47,3 +47,6 @@ function renderMetric_81() { return 81; }
 
 // Canvas chart optimization 86
 function renderMetric_86() { return 86; }
+
+// Canvas chart optimization 91
+function renderMetric_91() { return 91; }
