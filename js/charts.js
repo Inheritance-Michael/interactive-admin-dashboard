@@ -68,3 +68,6 @@ function renderMetric_116() { return 116; }
 
 // Canvas chart optimization 121
 function renderMetric_121() { return 121; }
+
+// Canvas chart optimization 126
+function renderMetric_126() { return 126; }
