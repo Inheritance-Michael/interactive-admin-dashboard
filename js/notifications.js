@@ -70,3 +70,6 @@ function notify_118(msg) { console.log(msg); }
 
 // Toast queue logic 123
 function notify_123(msg) { console.log(msg); }
+
+// Toast queue logic 128
+function notify_128(msg) { console.log(msg); }
